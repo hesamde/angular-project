@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    background-image: url("https://www.transparenttextures.com/patterns/back-pattern.png");    color:black;
+    display: flex;
+    justify-content: center;
+    button {
+        border:none;
+        width: 30px;
+        height: 30px;
+        border-radius: 80px;
+        background-color: darkred;
+        color:white;
+        
+    }
+}
